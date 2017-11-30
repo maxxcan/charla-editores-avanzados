@@ -1,0 +1,16 @@
+#+TITLE: emac-editor-avanzado
+#+AUTHOR: Patricio Martínez
+#+EMAIL: maxxcan@gmail.com
+
+* Introducción 
+
+* Por qué un editor avanzado
+
+* Editores avanzados 
+
+** Gvim 
+
+** Emacs
+
+* Demo
+
