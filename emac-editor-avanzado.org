@@ -1,16 +1,80 @@
-#+TITLE: emac-editor-avanzado
+#+TITLE: Emacs. El editor más avanzado
 #+AUTHOR: Patricio Martínez
 #+EMAIL: maxxcan@gmail.com
 
 * Introducción 
 
+Para muchas personas que solemos crear contenido de algún tipo la mayor parte del día *delante de un ordenador* la pasamos delante de algún programa en el que podemos escribir bien sea programas informáticos, libros o documentos de lo más variado de los temas, contenido para la red o simplemente rellenando o controlando nuestra agenda y/o lista de tareas.
+
+El estar tanto tiempo delante de ese tipo de programas nos da a entender que es bueno tener *buenas herramientas* las cuales nos _*ahorren tiempo* y *maximicen nuestra productividad y optimicen nuestro esfuerzo*._
+
+
+
+* Herramientas necesarias
+
+Al igual que si somos corredores de coches, motos, médicos, etc, queremos las mejores herramientas para el tema de la creación de contenidos ocurre lo mismo y no solo me refiero a los programas informáticos sino también a cosas como nuestro teclado o nuestro lugar de trabajo, silla, mesa, etc.
+
+
+ 
+
+| [[./img/mi-silla.jpg]] | [[./img/mi-teclado.jpg]]  |
+
 * Por qué un editor avanzado
+
+
+
+** Qué es un editor avanzado 
+
+Un editor es una forma más directa y clara de crear nuestro contenido. Al no usar _programas wysiwyg_ (what you see is what you get), sabemos a ciencia cierta lo que hay en nuestro fichero de *texto plano*, al contrario de lo que pasa con los otros programas.
+
+Por supuesto, por lo general para las personas que solo quieren generar texto _sin ningún formato_ un editor es suficiente, esto también vale para una persona que haga un programa de ordenador ya que al ordenador no le importan lo bonito o legible que sea el texto. El programador tiene otras necesidades que están más relacionadas a tener herramientas que le faciliten o gane velocidad a la hora de escribir el código fuente que el ordenador interpretará o compilará, para ellos están los IDEs (*Entorno de desarrollo integrado*)
+
+El tema es que también hay una forma de generar documentos bien formados, visualmente atractivos y de una manera más rápida usando editores de texto  avanzados tal como vamos a ver.
+
+El problema de usar IDEs o programas wysiwyg es que suelen ser programas pesados que en ocasiones requieren ordenadores de última generación para hacerlos funcionar.
+
 
 * Editores avanzados 
 
-** Gvim 
+Con los editores avanzados podemos optar a las mejoras de un programa que nos permita _programar al igual que los IDEs_ y además también podemos crear _documentación de una altísima calidad_ aplicando eso sí, algunas técnicas más parecidas a la programación pero sin llegar para nada a esta.
+
+
+** Vim 
+
+Es una versión mejorada del *editor vi*, que es un editor que está en todos los sistemas Unix. Su autor, _Bram Moolenaar_, presentó la primera versión en _1991_, fecha desde la que ha experimentado muchas mejoras. 
+
+Vim es un editor *hecho por programadores para programadores*. Para facilitar la programación, Vim dispone de un modo "editar, compilar, corregir". De la misma forma que los entornos de desarrollo integrados, puede editar el código fuente además llamar a un compilador externo, e interpretar sus resultados. 
+
+[[./img/vim.png]]
+
+Más información en [[https://es.wikipedia.org/wiki/Vim][Wikipedia]]
 
 ** Emacs
 
-* Demo
+Emacs es un editor de texto con una gran cantidad de funciones, muy popular entre programadores y usuarios técnicos. GNU Emacs es parte del proyecto GNU y la versión más popular de Emacs con una gran actividad en su desarrollo. El manual de GNU Emacs lo describe como "_un editor extensible, personalizable, auto-documentado y de tiempo real_."
 
+Fue escrito en 1975 por Richard Stallman junto con Guy Steele.
+
+[[./img/emacs.png]]
+
+* Por qué Emacs
+
+ Hay muchas razones por las que usar Emacs. 
+
+Veremos algunas:
+
+1. Su gran velocidad y poca necesidad de recursos
+2. Es mucho más que un editor de texto
+3. Su gestor de paquetes
+4. Sus cientos de paquetes y modos
+5. Su productividad
+6. Sus combinaciones de teclas
+7. Que funciona igual tanto en modo texto como en modo gráfico
+8. Org-mode
+9. Magit
+10. Sus temas
+11. Spacemacs
+12. Su interfaz y forma de trabajar unificada.
+
+
+Y muchas más cosas
